@@ -1,6 +1,7 @@
 enscapeRenamer
 To Do:
 	* compare existing and new images to only void files that will result in a duplicate file name
+	* compare new images and move older version to void folder
 	* option for single void folder vs multiple void folders
 
 place this in your enscape output directory
